@@ -42,7 +42,7 @@ public class TheRiddler {
 		}
 		
 		// 2. Make a pop up to show the score.
-		
+		JOptionPane.showMessageDialog(null, "Your score is " + score);
 	}
 }
 
